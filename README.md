@@ -1,5 +1,11 @@
-hi this is sample git assignment
 
 
+editing for rebase assignment
+
+new add
+
+neww
+
+add
 
 test 
